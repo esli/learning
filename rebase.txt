@@ -1,9 +1,1 @@
 teste rebase
-
-<<<<<<< HEAD
-
-
-adicionado linha no master
-=======
-linha inserida no branch experiment
->>>>>>> experiment
